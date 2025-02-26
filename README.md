@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+_Get started using GitHub in less than an hour._ # too hard for me, I'll continue tomorrow and make it a 90 minutes intro.
 
 </header>
 
@@ -23,7 +23,7 @@ _Get started using GitHub in less than an hour._
 
 ## Step 1: Create a branch
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_Welcome to "Introduction to GitHub 2025"! :wave:_
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
